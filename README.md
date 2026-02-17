@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Fawad</h1>
 <h3 align="center">A C++/Python developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **A C++ Systems Project**
+- 🔭 I’m currently working on **A High Performance Limit Order Book in C++**
 
 - 📝 I "regularly" write articles on [Halonix.dev](http://www.Halonix.dev)
 
