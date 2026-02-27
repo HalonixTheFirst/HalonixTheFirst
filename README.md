@@ -30,19 +30,3 @@
 
 <!--<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HalonixTheFirst&show_icons=true&locale=en&layout=compact" alt="halonixthefirst" /></p>-->
 ---
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HalonixTheFirst&show_icons=true&theme=onedark&hide_border=true&bg_color=0d1117&title_color=00C853&icon_color=00C853&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=HalonixTheFirst&theme=gruvbox&hide_border=true&background=0d1117&ring=00C853&fire=00C853&currStreakLabel=00C853&dates=c9d1d9" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HalonixTheFirst&layout=compact&theme=gruvbox&hide_border=true&bg_color=0d1117&title_color=00C853&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-</p>
-
----
