@@ -13,6 +13,7 @@
     <td><a href="https://hashnode.com/@halonix"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" width="40" /></a></td>
     <td><a href="https://www.leetcode.com/halonixthefirst"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" /></a></td>
     <td><a href="https://codeforces.com/profile/halonix"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="40" /></a></td>
+    <td><a href="https://www.goodreads.com/user/show/128407846-halonixthefirst"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7JheTt-5MLKEolXYQ_F4GkabqDJDn7oTsMIoZVaClOA&s" width="40" /></a></td>
   </tr>
 </table>
 <h3 align="left">Languages and Tools:</h3>
