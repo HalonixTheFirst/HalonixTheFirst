@@ -2,7 +2,6 @@
 <h3 align="center">A C++/Python developer from Pakistan</h3>
 
 - 🔭 I’m currently learning **Dynamic Programming**
-- 📝 I "regularly" write articles on [Halonix.dev](http://www.Halonix.dev)
 - 📫 Send a message at **mfawadshah2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
