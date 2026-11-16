@@ -25,7 +25,7 @@
     <td align="center"><a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="tailwind" /></a></td>
     <td align="center"><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="css3" /></a></td>
     <td align="center"><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="html5" /></a></td>
-    <td align="center"><a href="https://flask.palletsprojects.com/"><img src="https://cms-assets.tutsplus.com/uploads/users/30/posts/16037/preview_image/flask.png" width="40" height="40" alt="flask" /></a></td>
+    <td align="center"><a href="https://flask.palletsprojects.com/"><img src="https://nordicapis.com/wp-content/uploads/How-to-Create-an-API-Using-The-Flask-Framework.png" width="40" height="40" alt="flask" /></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" alt="sqlite" /></a></td>
